@@ -194,10 +194,11 @@ p {
 }
 
 .inline-btn {
-  margin-left: -17rem;
+  /* margin-left: -17rem; */
   /* margin:left; */
 /* float: left; */
-  /* display:block; */
+  display:block;
+  margin: auto;
   /* position:absolute; */
   /* text-align: left; */
   /* left: auto; */
